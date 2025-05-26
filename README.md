@@ -84,12 +84,12 @@ To run the React app locally, follow these steps:
 # for autogen/socket run
 
 ```bash
-   python dummy_autogen/main.py
+   python autogen/main.py
 ```
 
 # for frontend run
 
 ```bash
-   cd homehelper-ui
+   cd frontend-ui
    npm run dev
 ```
