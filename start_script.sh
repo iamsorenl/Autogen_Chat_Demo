@@ -10,7 +10,7 @@ python autogen/main.py &
 
 # Start React frontend
 echo "Starting React frontend..."
-cd homehelper-ui
+cd frontend-ui
 npm run dev
 
 # Kill background processes when script ends
